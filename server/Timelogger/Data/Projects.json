@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Moon colony",
+    "time": 0,
+    "hourRate": 321,
+    "deadline": "2021-04-27T00:00:00.000Z",
+    "clientName": "NASA"
+  },
+  {
+    "id": 2,
+    "name": "New truck",
+    "time": 0,
+    "hourRate": 420,
+    "deadline": "2021-03-27T00:00:00.000Z",
+    "clientName": "Tesla"
+  },
+  {
+    "id": 3,
+    "name": "Mars colony",
+    "time": 0,
+    "hourRate": 123,
+    "deadline": "2021-06-27T00:00:00.000Z",
+    "clientName": "SpaceX"
+  }
+]
